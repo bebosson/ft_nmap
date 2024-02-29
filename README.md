@@ -1,8 +1,4 @@
-
-![demo](https://github.com/bebosson/ft_nmap/assets/45608547/1bc0d311-ce2b-4616-9a3f-5c47462d305e)
-
-
- 
+	      ___           ___           ___           ___           ___           ___     
 	     /\  \         /\  \         /\__\         /\__\         /\  \         /\  \    
 	    /::\  \        \:\  \       /::|  |       /::|  |       /::\  \       /::\  \   
 	   /:/\:\  \        \:\  \     /:|:|  |      /:|:|  |      /:/\:\  \     /:/\:\  \  
@@ -13,6 +9,8 @@
 	       \/__/     \/__/           |::/  /        /:/  /        /:/  /         \/__/  
 	                                 /:/  /        /:/  /        /:/  /                 
 	                                 \/__/         \/__/         \/__/                  
+
+              
 
 	./ft_nmap {Target} -s [Scan type] -p [Ports specised] -t {thread number}
 	
@@ -45,4 +43,8 @@
                         $scanme.nmap.org -s SYN -p 20-30
                         $8.8.8.8 -t 10 -s UDP -p 1,22,50,90,1000
                         $insecure.org -p 1-65535 
+
+
+
+![demo](https://github.com/bebosson/ft_nmap/assets/45608547/1bc0d311-ce2b-4616-9a3f-5c47462d305e)
 
