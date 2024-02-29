@@ -1,0 +1,2 @@
+scanme.nmap.org -s SYN -t 20 -p 1-50
+insecure.org -s SYN -p 80-134

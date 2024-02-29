@@ -1,0 +1,3 @@
+scanme.nmap.org -p 1-1024
+google.com -p 1-1024
+linux.fr -p 1-1024

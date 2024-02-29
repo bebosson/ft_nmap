@@ -1,0 +1,1 @@
+scanme.nmap.org -s SYN -p 20-30
